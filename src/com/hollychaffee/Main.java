@@ -1,13 +1,13 @@
 package com.hollychaffee;
 
 public class Main {
-    // Java has reserved words used for "keywords". These keywords have predefined meanings,
-    // therefore cannot be used as names for variables, methods, classes, or as any other identifier.
+    /* Java has reserved words used for "keywords". These keywords have predefined meanings,
+     therefore cannot be used as names for variables, methods, classes, or as any other identifier.
 
-    // Expressions are building blocks of all Java programs. Expressions are built using values, literals (constants),
-    // variables, operators, and method calls. Expressions are used to fetch, compute, and store values.
-    // An expression is akin to a clause in the English language, which, with the right punctuation can sometimes
-    // stand on it's own or also be part of a sentence.
+     Expressions are building blocks of all Java programs. Expressions are built using values, literals (constants),
+     variables, operators, and method calls. Expressions are used to fetch, compute, and store values.
+     An expression is akin to a clause in the English language, which, with the right punctuation can sometimes
+     stand on it's own or also be part of a sentence.*/
     public static void main(String[] args) {
         // A mile is equal to 1.609344 kilometers
         double kilometers = (100 * 1.609344); // The expression is comprised of the variable, value, and operator: kilometers = (100 * 1.609344
